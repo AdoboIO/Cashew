@@ -1,2 +1,2 @@
 # Cashew
-App to test Adobo-Web 
+Are you nuts? Yes, cashew is a nut!
